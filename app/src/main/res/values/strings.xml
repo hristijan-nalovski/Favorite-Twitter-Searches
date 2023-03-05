@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Favorite Twitter Searches</string>
+    <string name="first_edit_hint">Enter Twitter search query here</string>
+    <string name="second_edit_hint">Tag your query</string>
+</resources>
